@@ -1,2 +1,2 @@
 # JS30
-This is JS30 coding project.
+30 days of vanilla js coding challenge.
